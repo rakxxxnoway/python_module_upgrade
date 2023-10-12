@@ -68,7 +68,7 @@ if __name__ == "__main__":
 		else:
 			modules = manage_pip_out()
 
-	upgrade_from_list(modules)
+		upgrade_from_list(modules)
 	
 	else:
 		print("[*]: Use -> python3 update.py\n::OR::\n[*]: python3 update.py --no-file")
