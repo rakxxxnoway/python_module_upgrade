@@ -70,6 +70,6 @@ if __name__ == "__main__":
 
 	upgrade_from_list(modules)
 	
-	#else:
-		#print("[*]: Use -> python3 update.py\n::OR::\n[*]: python3 update.py --no-file")
+	else:
+		print("[*]: Use -> python3 update.py\n::OR::\n[*]: python3 update.py --no-file")
 
